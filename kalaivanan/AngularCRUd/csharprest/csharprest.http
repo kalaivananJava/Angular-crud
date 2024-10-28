@@ -1,0 +1,6 @@
+@csharprest_HostAddress = http://localhost:5115
+
+GET {{csharprest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
